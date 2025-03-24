@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="32" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="32" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="32" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="32" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Google Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="32" style="margin-right: 4px">
 <p align="left">
