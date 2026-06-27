@@ -8,10 +8,10 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
+<h3 align="left">Connect with me:</h3> 
 <p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-fabio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/Matheusfbio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="matheusfabiors@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🔭 Experience in web and mobile development.<br>💬 About me: I'm a developer crazy about technology, I always try to develop software with the most current technology in the software development area.</h3>**
+<h3 align="left">🔭 Experience in web and mobile development.<br>💬 About me: I'm a developer crazy about technology, I always try to develop software with the most current technology in the software development area.</h3>
 
 
 # 💪🏼 Skills
